@@ -1,7 +1,7 @@
 // DropFilesEdit.cpp : implementation file
 //
 
-#include "stdafx.h"
+// #include "stdafx.h"
 #include "DropFilesEdit.h"
 
 #ifdef _DEBUG

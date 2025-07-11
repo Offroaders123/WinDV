@@ -1,7 +1,7 @@
 // DVToolsDlg.cpp : implementation file
 //
 
-#include "stdafx.h"
+// #include "stdafx.h"
 #include "process.h"
 #include "WinDV.h"
 #include "DropFilesEdit.h"

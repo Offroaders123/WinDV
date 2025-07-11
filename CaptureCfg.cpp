@@ -1,7 +1,7 @@
 // CaptureCfg.cpp : implementation file
 //
 
-#include "stdafx.h"
+// #include "stdafx.h"
 #include "WinDV.h"
 #include "CaptureCfg.h"
 #include "DShow.h"

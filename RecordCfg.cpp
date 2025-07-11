@@ -1,7 +1,7 @@
 // RecordCfg.cpp : implementation file
 //
 
-#include "stdafx.h"
+// #include "stdafx.h"
 #include "WinDV.h"
 #include "DropFilesEdit.h"
 #include "RecordCfg.h"
